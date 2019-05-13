@@ -1,0 +1,3 @@
+The kicker we use works on the principle of a solenoid charged by a capacitor.
+The capacitor is charged to its limit by using a boost convertor that steps up the voltage from the the 12V battery. The kicker is operated through a switch which disconnects the charging circuit and allows the charge from the capacitor to flow through the solenoid. 
+As the kicker is made of a magnetic material as soon as the current flows the coil tries to bring as much of the kicker inside itself as possible. This is what generates the tremendous kicking force required to kick the ball.
