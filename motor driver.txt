@@ -1,0 +1,8 @@
+MOTOR DRIVER
+In motor driver, I learnt how to make a commutation table.
+ 
+I learnt in detail about the internal circuitry of the driver. I read about power MOSFETs and their advantages. We were taught the problems that we currently face in running our BLDCs. I learnt to place the components on the PCB and solder them properly. I also read about the gate driver IC we use and how it helps us in switching the states of the mosfets.
+
+I read about the various methods of sensing commutation which includes using Hall sensors, using encoders and finally back-EMF calculations. The methods of control like trapezoidal, sinusoidal and field oriented control. The current sensor IC ACS2590 was also introduced. 
+
+The main takeaway was that there are problems in the circuitry that we use and many things can be improved like we can implement sinusoidal current by applying variable PWM or make the commutation smoother by adjusting the rise and fall time of the voltages at the gates.
