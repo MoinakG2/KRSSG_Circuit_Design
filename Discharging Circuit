@@ -1,0 +1,1 @@
+As a part of the subsystem allotment we were given the task of making the discharging circuit for the capacitor. For this we used a relay and current limiting resistors. The major problem I faced in this challenge was choosing values for resistors to be used. It took us a lot of time to figure it out but finally our circuit worked fine.
