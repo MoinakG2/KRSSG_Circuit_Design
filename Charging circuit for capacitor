@@ -1,0 +1,1 @@
+In this task, I was part of a team that made the charging circuit of our capacitor. We used the IC LT3750. First, we made the LTSpice model attached herewith. Here again, a problem we faced was the current sense resistor. The value is so low that even a little bit of extra solder may render the circuit useless. Hence, we had to be really careful with the soldering. 
